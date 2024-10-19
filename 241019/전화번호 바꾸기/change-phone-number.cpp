@@ -6,6 +6,7 @@ int main() {
     int a, b, c;
     char ch;
 
+    // a는 버리는 값
     cin >> a >> ch >> b >> ch >> c;
     cout << "010" << ch << c << ch << b;
 
